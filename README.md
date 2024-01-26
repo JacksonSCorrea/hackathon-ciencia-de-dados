@@ -4,8 +4,11 @@
 
 ### 1. Entendimento do Negócio
 A concessão de crédito implica em riscos financeiros, incluindo perda financeira, redução de liquidez, aumento de custos de recuperação, avaliação inadequada de crédito e fraude.
+
 Sabendo-se disso, a PoD Bank, uma startup financeira, busca aprimorar suas decisões de crédito através de modelos estatísticos, oferecendo crédito imobiliário, veicular e empréstimo pessoal.
-Fornece, como principais produtos, o Crédito Imobiliário, o Crédito Veicular e o Empréstimo Pessoal. Atualemente está enfrentando problemas com o aumento da inadimplência, 
+Fornece, como principais produtos, o Crédito Imobiliário, o Crédito Veicular e o Empréstimo Pessoal.
+
+Atualmente está enfrentando problemas com o aumento da inadimplência, 
 em paralelo ao também aumento da carteira de clientes. Sendo assim, necessita de um ferramental tecnológico para auxílio na concessão de um crédito mais consciente.
 
 ---
