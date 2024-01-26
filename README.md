@@ -14,7 +14,7 @@ em paralelo ao também aumento da carteira de clientes. Sendo assim, necessita d
 ---
 
 ### 2. Objetivo do Projeto
-Desenvolvimento de um modelo preditivo para avaliação do risco de inadimplência, visando decisões informadas na concessão de crédito.
+Desenvolvimento de um modelo preditivo para avaliação do risco de inadimplência através de scores, visando decisões informadas na concessão de crédito.
 
 ---
 
