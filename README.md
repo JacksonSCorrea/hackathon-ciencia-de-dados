@@ -43,7 +43,7 @@ Dado o momento atual do banco, onde é necessário realizar uma transição da f
 ---
 
 ### 6. Principais Indicadores de Desempenho (KPIs) do Modelo de Crédito Apresentado:
-Taxa de Inadimplência média da carteira atual: 8%
-Taxa de Inadimplência média da carteira futura: 4,3%
-Taxa de Aprovação: 70%
+- Taxa de Inadimplência média da carteira atual: 8%
+- Taxa de Inadimplência média da carteira futura: 4,3%
+- Taxa de Aprovação: 70%
 
